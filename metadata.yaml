@@ -1,0 +1,27 @@
+_repo: Over-Prairie-Trails_6111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grove, Frederick Philip
+    alias: Greve, Felix Paul
+    birthdate: 1879
+    deathdate: 1948
+    gutenberg_agent_id: '1954'
+    url: http://www.gutenberg.org/2009/agents/1954
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Philip_Grove
+description: Description of seven trips between Gladstone and Falmouth, near the western
+  shore of Lake Manitoba, during the years 1917-1918.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manitoba -- Description and travel'
+- !lcc 'F1001'
+- GITenberg
+title: Over Prairie Trails
+url: http://www.gutenberg.org/ebooks/6111
